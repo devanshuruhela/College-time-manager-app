@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035987365076",
+    "project_id": "time-manag-app",
+    "storage_bucket": "time-manag-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035987365076:android:4d267e29537a8d3adbdf41",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035987365076-rsu2rt5vm2s0bqd2odjgueoainviavoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieapp",
+            "certificate_hash": "c4ab65b34eb3cd8e5591165757214eb91bcc5a5e"
+          }
+        },
+        {
+          "client_id": "1035987365076-v1hpjkqi8mhq8l443mbji4jjv4e3rovt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBumulmbQUDyvsf4K26bSgOWXGKKIj5PIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035987365076-v1hpjkqi8mhq8l443mbji4jjv4e3rovt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
